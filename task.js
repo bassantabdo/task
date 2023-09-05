@@ -1,4 +1,4 @@
-var allproducts = document.querySelector(".bottum")
+var allproducts = document.querySelector(".card-body bottum")
 
 var allproducts = document.querySelector(".my-cart")
 
